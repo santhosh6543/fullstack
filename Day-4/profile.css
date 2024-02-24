@@ -1,0 +1,88 @@
+.l-div{
+    margin: 200px 0px 0px 30px;
+}
+.b1{
+    
+    display: flex;
+    flex-direction: row;
+}
+.b2{
+    display: flex;
+    flex-direction: row;
+}
+.b3{
+    display: flex;
+    flex-direction: row;
+}
+.b1-p1{
+    margin-top: 0px;
+    margin-left: 30px;
+}
+.b2-p1{
+    margin-top: 0px;
+    margin-left: 30px;
+}
+.b3-p1{
+    margin-top: 0px;
+    margin-left: 30px;
+}
+.b1-p2{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.b2-p2{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.b3-p2{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.p-h{
+    margin-left: 70px;
+}
+.profile-image{
+    height: 25%;
+    width: 70%;
+    margin-top: 40px;
+    margin-left: 35px;
+    border-radius: 50%;
+    box-shadow: 1px 1px 20px 1px rgb(106, 103, 103);
+}
+.p-card1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 60px;
+}
+.p-card2{
+    display: flex;
+    flex-direction: row;
+    margin-left:50px;
+}
+.p-cardbody{
+    display: flex;
+    flex-direction: row;
+}
+.rating{
+    display: flex;
+    flex-direction: row;
+    margin-left: 420px;
+}
+.rating-p{
+    font-size: 120%;
+    font-weight: bold;
+}
+.rating-icon{
+    font-size: 180%;
+    margin-top: 13px;
+}
+.b5{
+    margin-left: 10px;
+    font-weight: bold;
+}
+.b4{
+    margin-top: 0px;
+}
+.b6{
+    margin-left:500px ;
+}
